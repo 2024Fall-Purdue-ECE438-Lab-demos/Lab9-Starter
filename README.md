@@ -1,4 +1,4 @@
-# Lab 08: Number Representation and Waveform Quantization
+# Lab 9: Number Representation and Waveform Quantization
 
 ## Getting Started
 
